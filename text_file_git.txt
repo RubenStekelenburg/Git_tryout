@@ -8,3 +8,6 @@ ff
 This is the last version.
 
 New changes (exercise 1.2)
+
+Aanpassing 1,
+Aanpassingen bla bla bla
